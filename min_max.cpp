@@ -24,7 +24,7 @@ int main(){
         for(i=0;i<n;i++){
             cout<<a[i];
         }
-        // cout << a[0] <<" " << a[n-1];
-        // cout<<"\n";
+        cout << a[0] <<" " << a[n-1];
+        cout<<"\n";
     }
 }
